@@ -13,7 +13,7 @@
 * Laravel
 ## Base de datos
 * MySQL
-## Adicionales
+## _Adicionales_
 * Diagramas UML
 * GitHub
 * Adobe Photoshop
