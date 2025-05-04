@@ -10,7 +10,7 @@
 * Bootstrap
 ## Back-end
 * PHP
-** Marco de trabajo: -Laravel-
+* Laravel
 ## Base de datos
 * MySQL
 ## Adicionales
