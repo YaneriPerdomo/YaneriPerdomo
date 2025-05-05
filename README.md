@@ -15,7 +15,8 @@
 ## Base de datos
 * MySQL
 ## _Adicionales_
-* Diagramas UML
+* Git 
 * GitHub
+* Diagramas UML
+* Markdown
 * Adobe Photoshop
-* Markdown 
