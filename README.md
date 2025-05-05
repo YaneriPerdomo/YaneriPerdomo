@@ -10,8 +10,8 @@
 * Bootstrap
 ## Back-end
 * PHP
-## Framework
-* Laravel
+- Framework
+  1. Laravel
 ## Base de datos
 * MySQL
 ## _Adicionales_
