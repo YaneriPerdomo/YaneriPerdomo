@@ -7,7 +7,8 @@
 * HTML
 * CSS
 * JavaScript
-* Bootstrap
+- ### Biblioteca
+  - Bootstrap
 ## Back-end
 * PHP
 - ### Framework
