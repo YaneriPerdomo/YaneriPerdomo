@@ -11,7 +11,7 @@
 ## Back-end
 * PHP
 - Framework
-  1. Laravel
+  - Laravel
 ## Base de datos
 * MySQL
 ## _Adicionales_
