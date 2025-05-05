@@ -18,6 +18,7 @@ Aplico tecnologías como HTML, CSS, JavaScript, Bootstrap, PHP y MySQL. Actualme
 ## _Adicionales_
 * Git 
 * GitHub
+* Terminal
 * Diagramas UML
 * Markdown
 * Adobe Photoshop
