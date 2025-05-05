@@ -14,7 +14,8 @@ Aplico tecnologías como HTML, CSS, JavaScript, Bootstrap, PHP y MySQL. Actualme
 - ### Framework
   - Laravel
 ## Base de datos
-* MySQL
+  - ### SQL
+  - MySQL
 ## _Adicionales_
 * Git 
 * GitHub
