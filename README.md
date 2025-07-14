@@ -7,6 +7,8 @@ Aplico tecnologías como HTML, CSS, JavaScript, Bootstrap, PHP, Laravel y MySQL.
 * HTML
 * CSS
 * JavaScript
+- ### Framework
+  - Vue.js
 - ### Bibliotecas
   - Bootstrap (CSS)
 ## Back-end
@@ -16,7 +18,6 @@ Aplico tecnologías como HTML, CSS, JavaScript, Bootstrap, PHP, Laravel y MySQL.
 ## Base de datos
   - ### SQL
     - MySQL
-    - PostgreSQL 
 ## _Adicionales_
 * Git 
 * GitHub
